@@ -2,7 +2,7 @@
 # Aplicación Java con Hibernate-JPA - Gestión de Inventario -Tarea 04 de Acceso a Datos de DAM
 
 ## Descripción  
-Esta aplicación de consola en Java, desarrollada con Eclipse y Hibernate-JPA, gestiona un inventario de equipos informáticos en un centro educativo. La base de datos **MySQL** se generará automáticamente a partir de las entidades de la aplicación.
+Esta aplicación de consola en Java, desarrollada con Eclipse y Hibernate-JPA, gestiona un inventario de equipos informáticos en un centro educativo. La base de datos **MySQL** se generará automáticamente a partir de las entidades de la aplicación. Espero que pueda servir de ayuda para estudiantes de DAM y otros desarrolladores
 
 ## Estructura de la Base de Datos  
 
