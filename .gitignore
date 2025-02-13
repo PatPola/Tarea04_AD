@@ -17,3 +17,5 @@ target/               # Directorio generado por Maven
 persistence.xml
 # Archivos de configuración de la base de datos
 *.sql
+# Excluir archivo persistence.xml
+/src/main/resources/META-INF/persistence.xml
